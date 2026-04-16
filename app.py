@@ -1177,7 +1177,7 @@ st.markdown('<div class="custom-divider"></div>', unsafe_allow_html=True)
 st.markdown(
     """
 <div style="text-align: center; color: #636e72; padding: 20px 0 10px 0; font-size: 0.85rem;">
-    📊 Dashboard de Churn Bancário — Projeto Acadêmico de Ciência de Dados<br>
+    📊 Dashboard de Churn Bancário — Projeto Acadêmico de Modelagem Estatística<br>
     Desenvolvido com Streamlit, Plotly, Scikit-learn e Scipy
 </div>
 """,
